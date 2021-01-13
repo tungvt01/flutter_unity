@@ -39,3 +39,6 @@ app.*.symbols
 
 # Obfuscation related
 app.*.map.json
+/unity/Flutter/obj
+/unity/Flutter/Builds
+/unity/Flutter/Library
