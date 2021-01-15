@@ -42,3 +42,4 @@ app.*.map.json
 /unity/Flutter/obj
 /unity/Flutter/Builds
 /unity/Flutter/Library
+/unity/Flutter/Temp
